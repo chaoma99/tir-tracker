@@ -18,9 +18,8 @@ Ming-Hsuan Yang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF
 <p align="center"><img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D">Shanghai Jiao Tong University &nbsp; &nbsp; &nbsp; 
 <img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cdagger%7D">University of California at Merced</p>
 
-<p>&nbsp;</p>
-<div style="text-align:center"><img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="500px">
-<br>
+<img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="800px">
+
 <p style="margin-left:8em;margin-right:8em;text-align:justify;text-justify:inter-ideograph"><font size="2">
 Figure 1. <b>Left:</b> Neural network architecture with square root subspace
 space pooling. The input training data are small patches
