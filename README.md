@@ -5,7 +5,7 @@ Chao Ma, Xiaokang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 ICIP 2015 (TOP 10% Paper)
 
 
-<img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="600px">
+<img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="600px" style="text-align:center">
 
 <p style="margin-left:8em;margin-right:8em;text-align:justify;text-justify:inter-ideograph"><font size="2">
 Figure 1. <b>Left:</b> Neural network architecture with square root subspace
