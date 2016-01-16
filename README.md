@@ -4,13 +4,6 @@ Chao Ma, Xiaokang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 
 ICIP 2015 (TOP 10% Paper)
 
-
-> main entrance: run_tracker
-
-> learning features in ./Feature
-
-
-<h1 align="center"><font size="5">Learning a Temporally Invariant Representation for Visual Tracking</font></h1>
 <p align="center">Chao Ma<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%5Cdagger%7D">&nbsp;&nbsp;&nbsp;&nbsp; 
 Xiaokang Yang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D">&nbsp; &nbsp;&nbsp;&nbsp;
 Chongyang Zhang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D"> &nbsp; &nbsp; &nbsp;&nbsp; 
@@ -44,4 +37,11 @@ challenging sequences show that the proposed algorithm performs
 favorably against state-of-the-art methods in terms of
 efficiency, accuracy, and robustness.</p>
 <p>&nbsp;</p>
+
+----------
+Quick Start
+
+> main entrance: run_tracker
+
+> learning features in ./Feature
 
