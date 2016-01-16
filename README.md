@@ -4,14 +4,8 @@ Chao Ma, Xiaokang Yang, Chongyang Zhang, and Ming-Hsuan Yang
 
 ICIP 2015 (TOP 10% Paper)
 
-<p align="center">Chao Ma<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%5Cdagger%7D">&nbsp;&nbsp;&nbsp;&nbsp; 
-Xiaokang Yang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D">&nbsp; &nbsp;&nbsp;&nbsp;
-Chongyang Zhang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D"> &nbsp; &nbsp; &nbsp;&nbsp; 
-Ming-Hsuan Yang<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cdagger%7D"></p>
-<p align="center"><img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cstar%7D">Shanghai Jiao Tong University &nbsp; &nbsp; &nbsp; 
-<img src="https://www.google.com/chart?cht=tx&amp;chf=bg,s,FFFFFF00&amp;chco=000000&amp;chl=%5E%7B%5Cdagger%7D">University of California at Merced</p>
 
-<img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="800px">
+<img alt="" src="https://sites.google.com/site/chaoma99/icip15_tracking.png" width="600px">
 
 <p style="margin-left:8em;margin-right:8em;text-align:justify;text-justify:inter-ideograph"><font size="2">
 Figure 1. <b>Left:</b> Neural network architecture with square root subspace
