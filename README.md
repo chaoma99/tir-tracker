@@ -24,7 +24,4 @@ efficiency, accuracy, and robustness.
 
 ### Quick Start
 
-> main entrance: run_tracker
-
-> learning features in ./Feature
-
+> run_tracker.m
