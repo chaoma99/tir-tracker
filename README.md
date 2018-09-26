@@ -1,11 +1,8 @@
-### Learning a Temporally Invariant Representation for Visual Tracking - ICIP 2015
+### Learning a Temporally Invariant Representation for Visual Tracking
 
-Chao Ma, Xiaokang Yang, Chongyang Zhang, and Ming-Hsuan Yang
+This is the research code for the ICIP 2015 paper:
 
-ICIP 2015 TOP 10% Paper
-
-https://sites.google.com/site/chaoma99/icip15-tracking
-
+Chao Ma, Xiaokang Yang, Chongyang Zhang, and Ming-Hsuan Yang, Learning a Temporally Invariant Representation for Visual Tracking, in ICIP 2015 (Top 10% paper)
 
 In this paper, we propose to learn temporally invariant features
 from a large number of image sequences to represent
